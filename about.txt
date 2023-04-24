@@ -1,0 +1,10 @@
+Role: Data Analyst
+Company: Mobile Company
+
+Description
+The company builds Android and iOS mobile apps and make them available on Google Play and the App store.
+The apps are free to download and install. the company's main source of revenue consist of in-app ads. 
+The more users who see and engage with the ads, the better. 
+
+Goal
+Analyze data to help developers understand what type of apps are likely to attract more users on Google Play and the App Store.
